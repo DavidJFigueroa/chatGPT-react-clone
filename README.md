@@ -1,6 +1,7 @@
-Apologies for the oversight. Since there is no backend involved in your ChatGPT application, you can skip the backend deployment steps mentioned in the documentation. Here's the updated documentation focusing only on the frontend deployment:
 
 # ChatGPT Clone Documentation
+
+<img width="767" alt="Screenshot 2024-04-10 at 7 14 03 PM" src="https://github.com/DavidJFigueroa/chatGPT-react-clone/assets/122026800/ca60e2ee-928a-4347-a4df-7385c0e4236f">
 
 ## Overview
 
